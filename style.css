@@ -148,7 +148,9 @@
 }
 
 
-
+.bigFooter {
+	height:85%;
+}
 
 body {
   background-repeat-x: no-repeat;
