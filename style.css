@@ -149,7 +149,7 @@
 
 
 .bigFooter {
-	height:85%;
+	min-height:85%;
 }
 
 body {
