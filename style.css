@@ -150,9 +150,21 @@
 
 
 .bigFooter {
-	height:568px;
+	height:800px;
 }
 
+
+body {
+    background: url("bg.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 100%;
+   /* overflow: hidden;*/
+}
+
+/*
 body {
   background-repeat-x: no-repeat;
   background-repeat-y: no-repeat;
@@ -166,7 +178,7 @@ body {
   background-repeat-x: no-repeat;
   background-repeat-y: no-repeat;
 }
-
+*/
 
 
 /*https://css-tricks.com/NetMag/FluidWidthVideo/Article-FluidWidthVideo.php  */
